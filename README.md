@@ -3,7 +3,7 @@
 
 Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 
-Link da Aplicação: 
+Link da Aplicação: https://desafio-3-alpha.vercel.app/
 ## Tecnologias 🚀
 
 • Javascript
