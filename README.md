@@ -22,7 +22,7 @@ Link da Aplicação: https://desafio-3-alpha.vercel.app/
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone [https://github.com/PedroFrazo/Desafio3-DNC]
 ```
 
 Entre no diretório do projeto
